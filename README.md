@@ -1,0 +1,41 @@
+## Files
+- ./r - unpacked fa64 pkg (zip | base64 | base64)
+- ./r.out - unpacked r
+- ./r.out/s/aa - zip containing 'aa.bin'
+- ./r.out/s/aa.out/aa.bin - encrypted and base64 encoded script executor
+- ./r.out/s/aa.out/aa.out - decrypted ^^
+- ./r.out/s/ai - zip containing 'ai.bin'
+- ./r.out/s/ai.out/ai.bin - encrypted and base64 encoded script executor
+- ./r.out/s/ai.out/ai.out - decrypted ^^
+- ./r.out/s/aii - zip containing 'aii.bin'
+- ./r.out/s/aii.out/aii.bin - encrypted and base64 encoded script executor
+- ./r.out/s/aii.out/aii.out - decrypted ^^
+- ./r.out/s/bb - zip containing 'bb.bin'
+- ./r.out/s/bb.out/bb.bin - encrypted and base64 encoded script executor
+- ./r.out/s/bb.out/bb.out - decrypted ^^
+- ./r.out/s/cc - zip containing 'cc.bin'
+- ./r.out/s/cc.out/cc.bin - encrypted and base64 encoded script executor
+- ./r.out/s/cc.out/cc.out - decrypted ^^
+- ./r.out/s/dd - zip containing 'dd.bin'
+- ./r.out/s/dd.out/dd.bin - encrypted and base64 encoded script executor
+- ./r.out/s/dd.out/dd.out - decrypted ^^
+- ./r.out/s/ee - zip containing 'ee.bin'
+- ./r.out/s/ee.out/ee.bin - encrypted and base64 encoded script executor
+- ./r.out/s/ee.out/ee.out - decrypted ^^
+- ./r.out/s/ff - zip containing 'ff.bin'
+- ./r.out/s/ff.out/ff.bin - encrypted and base64 encoded script executor
+- ./r.out/s/ff.out/ff.out - decrypted ^^
+- ./r.out/s/gg - zip containing 'gg.bin'
+- ./r.out/s/gg.out/gg.bin - encrypted and base64 encoded script executor
+- ./r.out/s/gg.out/gg.out - decrypted ^^
+- ./r.out/s/hh - zip containing 'hh.bin'
+- ./r.out/s/hh.out/hh.bin - encrypted and base64 encoded script executor
+- ./r.out/s/hh.out/hh.out - decrypted ^^
+- ./r.out/s/key.txt - encrypted script executor
+- ./r.out/s/key.out - decrypted ^^
+- ./r.out/s/libfde - zip containing 'libfde.bin'
+- ./r.out/s/libfde.out/libfde.bin - base64 encoded shell script
+- ./r.out/s/libfde.out/libfde.out - plaintext ^^
+- ./r.out/s/rr - zip containing 'rre.sh'
+- ./r.out/s/rr/rre.sh - quadruple (kek) base64 encoded shell script
+- ./r.out/s/rr/rre.sh.out - plaintext ^^
