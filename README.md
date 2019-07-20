@@ -1,5 +1,5 @@
 ## Files
-- ./r - unpacked fa64 pkg (zip | base64 | base64)
+- ./r - unpacked fa64 pkg (zip | base64 | base64; sha1 e20525f7cd634f91ee26d3ccdd40343dc44bd054)
 - ./r.out - unpacked r
 - ./r.out/s/aa - zip containing 'aa.bin'
 - ./r.out/s/aa.out/aa.bin - encrypted and base64 encoded script executor
